@@ -153,7 +153,7 @@ docker-compose up --build
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Tech |
 |-------|------|
