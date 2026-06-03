@@ -22,7 +22,7 @@ A full-stack AI-powered resume analysis platform that parses resumes, matches th
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
