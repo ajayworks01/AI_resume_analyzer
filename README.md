@@ -1,4 +1,4 @@
-# 🤖 AI Resume Analyzer
+# AI Resume Analyzer
 
 A full-stack AI-powered resume analysis platform that parses resumes, matches them against job descriptions, and provides actionable insights.
 
@@ -9,16 +9,16 @@ A full-stack AI-powered resume analysis platform that parses resumes, matches th
 
 ---
 
-## ✨ Features
+## Features
 
-- 📄 **Resume Upload** – PDF & DOCX support with drag-and-drop
-- 🔍 **AI Parsing** – Extracts name, email, skills, experience, education automatically
-- 🎯 **JD Matching** – Compare resume vs job description with detailed scoring
-- 📊 **Analytics Dashboard** – Match scores, skill charts, ATS compatibility
-- 🏆 **Candidate Ranking** – Rank multiple resumes by relevance
-- 💡 **AI Suggestions** – Actionable improvement recommendations
-- 🌙 **Dark/Light Mode** – Full theme support
-- 📤 **Export Reports** – Download analysis as PDF/JSON
+-  **Resume Upload** – PDF & DOCX support with drag-and-drop
+-  **AI Parsing** – Extracts name, email, skills, experience, education automatically
+-  **JD Matching** – Compare resume vs job description with detailed scoring
+-  **Analytics Dashboard** – Match scores, skill charts, ATS compatibility
+-  **Candidate Ranking** – Rank multiple resumes by relevance
+-  **AI Suggestions** – Actionable improvement recommendations
+- **Dark/Light Mode** – Full theme support
+-  **Export Reports** – Download analysis as PDF/JSON
 
 ---
 
@@ -93,7 +93,7 @@ Frontend will be live at: http://localhost:3000
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-resume-analyzer/
@@ -132,7 +132,7 @@ ai-resume-analyzer/
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -146,8 +146,7 @@ ai-resume-analyzer/
 
 ---
 
-## 🐳 Docker (Optional)
-
+##  Docker (Optional)
 ```bash
 docker-compose up --build
 ```
@@ -166,7 +165,7 @@ docker-compose up --build
 
 ---
 
-## 📝 Environment Variables
+##  Environment Variables
 
 ### Backend `.env`
 ```
@@ -182,7 +181,7 @@ REACT_APP_API_URL=http://localhost:8000
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repo
 2. Create a feature branch: `git checkout -b feature/my-feature`
@@ -192,6 +191,6 @@ REACT_APP_API_URL=http://localhost:8000
 
 ---
 
-## 📄 License
+## License
 
 MIT License — free to use and modify.
