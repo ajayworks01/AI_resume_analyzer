@@ -1,0 +1,39 @@
+John Smith
+john.smith@email.com | +1 (555) 123-4567 | San Francisco, CA
+linkedin.com/in/johnsmith | github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Full-stack software engineer with 5 years of experience building scalable web applications.
+Strong background in Python, React, and cloud infrastructure.
+
+SKILLS
+Technical: Python, JavaScript, TypeScript, React, Node.js, FastAPI, Django, PostgreSQL, MongoDB,
+Docker, Kubernetes, AWS, Git, Linux, REST APIs, GraphQL, Redis, Elasticsearch
+Soft Skills: Communication, teamwork, leadership, problem solving, agile
+
+WORK EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc | 2021 - Present
+- Built microservices architecture using Python FastAPI and Docker
+- Reduced API response time by 40% through optimization
+- Led team of 5 engineers on customer-facing dashboard project
+
+Software Engineer | StartupXYZ | 2019 - 2021
+- Developed React frontend with TypeScript for SaaS platform
+- Implemented CI/CD pipelines using Jenkins and GitHub Actions
+- Managed PostgreSQL database with SQLAlchemy ORM
+
+EDUCATION
+Bachelor of Technology in Computer Science
+State University, 2019
+
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Google Cloud Professional Developer
+
+PROJECTS
+Resume Analyzer - Built AI-powered resume parsing tool using Python and spaCy
+E-commerce Platform - Full-stack React + FastAPI application with payment integration
+
+LANGUAGES
+English, Spanish

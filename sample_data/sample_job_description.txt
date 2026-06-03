@@ -1,0 +1,30 @@
+Senior Full-Stack Engineer
+
+We are looking for a Senior Full-Stack Engineer with 4+ years of experience to join our growing team.
+
+REQUIREMENTS:
+- Bachelor's degree in Computer Science or related field
+- 4+ years of professional software development experience
+- Strong proficiency in Python (FastAPI or Django)
+- Expert-level React and TypeScript skills
+- Experience with PostgreSQL and MongoDB
+- Proficiency with Docker and Kubernetes
+- AWS or GCP cloud experience required
+- Experience with REST APIs and GraphQL
+- CI/CD pipeline experience (Jenkins, GitHub Actions)
+- Strong understanding of microservices architecture
+
+NICE TO HAVE:
+- Redis caching experience
+- Elasticsearch knowledge
+- Machine learning exposure
+- Team leadership experience
+
+RESPONSIBILITIES:
+- Design and implement scalable backend APIs
+- Build responsive React frontend components
+- Collaborate with cross-functional teams
+- Code reviews and mentoring junior developers
+- Optimize application performance
+
+We offer competitive salary, remote work options, and excellent benefits.

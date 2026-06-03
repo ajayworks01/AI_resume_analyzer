@@ -1,0 +1,27 @@
+version: '3.9'
+
+services:
+  backend:
+    build: ./backend
+    container_name: resume-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite+aiosqlite:///./resume_analyzer.db
+      - ALLOWED_ORIGINS=http://localhost:3000
+      - SECRET_KEY=change-this-in-production
+    volumes:
+      - ./backend/uploads:/app/uploads
+      - ./backend/resume_analyzer.db:/app/resume_analyzer.db
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: resume-frontend
+    ports:
+      - "3000:80"
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000/api
+    depends_on:
+      - backend
+    restart: unless-stopped
